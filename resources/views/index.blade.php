@@ -20,14 +20,71 @@
                 </div>
               </div><br>
         
-              <div class="card" style="width: 18rem; position-absolute start-10">
-                <img src="https://scontent.fpnh10-1.fna.fbcdn.net/v/t1.6435-9/103839433_3897851450286087_5869508311144037234_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=7f8c78&_nc_ohc=6XopWgHhTEAAX9UBgnH&_nc_oc=AQk_zevGlDyM6zkEkI_S2SODu48LP7d7BJzTFmycnK_D5dVwvc49UqyKRNPtsBgOTKk&_nc_ht=scontent.fpnh10-1.fna&oh=00_AfAHz8mOzvYMgWPO_Cv8ycZpK7dyroN2AKiZuFjNVGho8A&oe=65DD7CC8" class="card-img-top" alt="...">
-                <div class="card-body">
-                  <h5 class="card-title">Hair Cut</h5>
-                  <p class="card-text">Everything</p>
-                  <a href="#" class="btn btn-primary">See More</a>
+              <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                  <div class="card">
+                    <img src="https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/2648455/medium_5rALjvPelm.jpg" class="card-img-top"
+                      alt="Hollywood Sign on The Hill" />
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">
+                        This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/2648455/medium_5rALjvPelm.jpg" class="card-img-top"
+                      alt="Palm Springs Road" />
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">
+                        This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/2648455/medium_5rALjvPelm.jpg" class="card-img-top"
+                      alt="Los Angeles Skyscrapers" />
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content.</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card">
+                    <img src="https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/2648455/medium_5rALjvPelm.jpg" class="card-img-top"
+                      alt="Skyscrapers" />
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">
+                        This is a longer card with supporting text below as a natural lead-in to
+                        additional content. This content is a little bit longer.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col">
+                  <div class="card ">
+                    <img src="https://s3.eu-central-1.amazonaws.com/uberall-userpics-prod/2648455/medium_5rALjvPelm.jpg" class="card-img-top hover-zoom"
+                      alt="Los Angeles Skyscrapers" />
+                    <div class="card-body">
+                      <h5 class="card-title">Card title</h5>
+                      <p class="card-text">This is a longer card with supporting text below as a natural lead-in to
+                        additional content.</p>
+                    </div>
+                  </div>
                 </div>
               </div>
+
+
               <x-footer />
         </div>
     </x-layout>
